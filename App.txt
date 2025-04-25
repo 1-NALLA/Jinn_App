@@ -17,6 +17,8 @@ JINN_10318318 #bazil
 #______time end after 2pm______#
 #____remove 26 April _____#
 JINN_10371371
-#_____pyment done_____#
+#_____pyment done expiry 30_____#
 JINN_10378378
 expiry 1stmay JINN_10798798
+#_____pyment done expiry 1_____#
+JINN_110251025
